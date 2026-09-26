@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Dallas — Reunion Tower">
+  <!-- single slender shaft, widening to the foot -->
+  <path d="M29 33 L27.5 51 H36.5 L35 33 Z" fill="#2f6f62"/>
+  <rect x="21" y="50" width="22" height="5" rx="2.5" fill="#2f6f62"/>
+  <!-- geodesic ball near the top -->
+  <circle cx="32" cy="23" r="14" fill="#2f6f62"/>
+  <!-- ring of lights -->
+  <circle cx="21.5" cy="17" r="1.5" fill="#f6efe4" opacity=".5"/>
+  <circle cx="42.5" cy="17" r="1.5" fill="#f6efe4" opacity=".5"/>
+  <circle cx="32" cy="11.5" r="1.5" fill="#f6efe4" opacity=".5"/>
+  <circle cx="22" cy="29.5" r="1.5" fill="#f6efe4" opacity=".5"/>
+  <circle cx="42" cy="29.5" r="1.5" fill="#f6efe4" opacity=".5"/>
+  <!-- face -->
+  <circle cx="27" cy="21.5" r="2" fill="#f6efe4"/>
+  <circle cx="37" cy="21.5" r="2" fill="#f6efe4"/>
+  <path d="M28 27.5 C29.8 29.3 34.2 29.3 36 27.5" stroke="#f6efe4" stroke-width="1.9" stroke-linecap="round" fill="none"/>
+</svg>
